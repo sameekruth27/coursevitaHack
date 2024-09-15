@@ -1,230 +1,114 @@
-<<<<<<<< HEAD:Data.json
 [
   {
-    "code": "tulasisreemoukthikaCODEVITA0100",
+    "code": "tulasisreemoukthikaCOURSEVITA1000",
     "holder": "Tulasi Sree Moukthika of CSE Department"
   },
   {
-    "code": "kappaasrithaCODEVITA0101",
+    "code": "kappaasrithaCOURSEVITA1001",
     "holder": "Kappa Asritha of CSE Department"
   },
   {
-    "code": "kadarisaisindhuCODEVITA0102",
+    "code": "kadarisaisindhuCOURSEVITA1002",
     "holder": "Kadari.Sai Sindhu of AI&DS Department"
   },
   {
-    "code": "anushkaperuvelCODEVITA0103",
+    "code": "anushkaperuvelCOURSEVITA1003",
     "holder": "Anushka Peruvel of AI&DS Department"
   },
   {
-    "code": "hansikagollenCODEVITA0104",
+    "code": "hansikagollenCOURSEVITA1004",
     "holder": "Hansika Gollen of IT Department"
   },
   {
-    "code": "anishiCODEVITA0105",
+    "code": "anishiCOURSEVITA1005",
     "holder": "Anishi of AI&ML Department"
   },
   {
-    "code": "saanvireddynCODEVITA0106",
+    "code": "saanvireddynCOURSEVITA1006",
     "holder": "Saanvi Reddy.N of AI&ML Department"
   },
   {
-    "code": "varshiniCODEVITA0107",
+    "code": "varshiniCOURSEVITA1007",
     "holder": "Varshini of AI&ML Department"
   },
   {
-    "code": "rsrivyshnaviCODEVITA0108",
+    "code": "rsrivyshnaviCOURSEVITA1008",
     "holder": "R.Srivyshnavi of AI&DS Department"
   },
   {
-    "code": "andeharshitapoojaCODEVITA0109",
+    "code": "andeharshitapoojaCOURSEVITA1009",
     "holder": "Ande Harshita Pooja of CSE Department"
   },
   {
-    "code": "rishikareddyCODEVITA0110",
+    "code": "rishikareddyCOURSEVITA1010",
     "holder": "Rishika Reddy of AI&ML Department"
   },
   {
-    "code": "sanjanachintaCODEVITA0111",
+    "code": "sanjanachintaCOURSEVITA1011",
     "holder": "Sanjana Chinta of AI&ML Department"
   },
   {
-    "code": "greeshmaCODEVITA0112",
+    "code": "greeshmaCOURSEVITA1012",
     "holder": "Greeshma of CSE Department"
   },
   {
-    "code": "tsridivyapranaviCODEVITA0113",
+    "code": "tsridivyapranaviCOURSEVITA1013",
     "holder": "T. Sri Divya Pranavi of CSE Department"
   },
   {
-    "code": "scsharonleeCODEVITA0114",
+    "code": "scsharonleeCOURSEVITA1014",
     "holder": "S.C.Sharon Lee of CSE Department"
   },
   {
-    "code": "gaalisaipraharshitaCODEVITA0115",
+    "code": "gaalisaipraharshitaCOURSEVITA1015",
     "holder": "Gaali Sai Praharshita of IT Department"
   },
   {
-    "code": "sistlakeerthanaCODEVITA0116",
+    "code": "sistlakeerthanaCOURSEVITA1016",
     "holder": "Sistla Keerthana of IT Department"
   },
   {
-    "code": "sruthimadhavanCODEVITA0117",
+    "code": "sruthimadhavanCOURSEVITA1017",
     "holder": "Sruthi Madhavan of ECE Department"
   },
   {
-    "code": "keerthanasCODEVITA0118",
+    "code": "keerthanasCOURSEVITA1018",
     "holder": "Keerthana S of AI&ML Department"
   },
   {
-    "code": "safooraabdulqadeerCODEVITA0119",
+    "code": "safooraabdulqadeerCOURSEVITA1019",
     "holder": "Safoora Abdul Qadeer of AI&DS Department"
   },
   {
-    "code": "puttaumadeviCODEVITA0120",
+    "code": "puttaumadeviCOURSEVITA1020",
     "holder": "Putta Umadevi of AI&DS Department"
   },
   {
-    "code": "srichandanaCODEVITA0121",
+    "code": "srichandanaCOURSEVITA1021",
     "holder": "Srichandana of IT Department"
   },
   {
-    "code": "keerthikCODEVITA0122",
+    "code": "keerthikCOURSEVITA1022",
     "holder": "Keerthi K of AIML Department"
   },
   {
-    "code": "psailahariCODEVITA0123",
+    "code": "psailahariCOURSEVITA1023",
     "holder": "P Sai Lahari of CSE Department"
   },
   {
-    "code": "preethimadhavanCODEVITA0124",
+    "code": "preethimadhavanCOURSEVITA1024",
     "holder": "Preethi Madhavan of AI&ML Department"
   },
   {
-    "code": "akshathagadasandulaCODEVITA0125",
+    "code": "akshathagadasandulaCOURSEVITA1025",
     "holder": "Akshatha Gadasandula of IT Department"
   },
   {
-    "code": "tcharithaCODEVITA0126",
+    "code": "tcharithaCOURSEVITA1026",
     "holder": "T. Charitha of AI&ML Department"
   },
   {
-    "code": "malgarivinishaCODEVITA0127",
+    "code": "malgarivinishaCOURSEVITA1027",
     "holder": "Malgari Vinisha of CSE Department"
   }
-========
-[
-  {
-    "code": "tulasisreemoukthikaabc1000",
-    "holder": "Tulasi Sree Moukthika of CSE Department"
-  },
-  {
-    "code": "kappaasrithaabc1001",
-    "holder": "Kappa Asritha of CSE Department"
-  },
-  {
-    "code": "kadarisaisindhuabc1002",
-    "holder": "Kadari.Sai Sindhu of AI&DS Department"
-  },
-  {
-    "code": "anushkaperuvelabc1003",
-    "holder": "Anushka Peruvel of AI&DS Department"
-  },
-  {
-    "code": "hansikagollenabc1004",
-    "holder": "Hansika Gollen of IT Department"
-  },
-  {
-    "code": "anishiabc1005",
-    "holder": "Anishi of AI&ML Department"
-  },
-  {
-    "code": "saanvireddynabc1006",
-    "holder": "Saanvi Reddy.N of AI&ML Department"
-  },
-  {
-    "code": "varshiniabc1007",
-    "holder": "Varshini of AI&ML Department"
-  },
-  {
-    "code": "rsrivyshnaviabc1008",
-    "holder": "R.Srivyshnavi of AI&DS Department"
-  },
-  {
-    "code": "andeharshitapoojaabc1009",
-    "holder": "Ande Harshita Pooja of CSE Department"
-  },
-  {
-    "code": "rishikareddyabc1010",
-    "holder": "Rishika Reddy of AI&ML Department"
-  },
-  {
-    "code": "sanjanachintaabc1011",
-    "holder": "Sanjana Chinta of AI&ML Department"
-  },
-  {
-    "code": "greeshmaabc1012",
-    "holder": "Greeshma of CSE Department"
-  },
-  {
-    "code": "tsridivyapranaviabc1013",
-    "holder": "T. Sri Divya Pranavi of CSE Department"
-  },
-  {
-    "code": "scsharonleeabc1014",
-    "holder": "S.C.Sharon Lee of CSE Department"
-  },
-  {
-    "code": "gaalisaipraharshitaabc1015",
-    "holder": "Gaali Sai Praharshita of IT Department"
-  },
-  {
-    "code": "sistlakeerthanaabc1016",
-    "holder": "Sistla Keerthana of IT Department"
-  },
-  {
-    "code": "sruthimadhavanabc1017",
-    "holder": "Sruthi Madhavan of ECE Department"
-  },
-  {
-    "code": "keerthanasabc1018",
-    "holder": "Keerthana S of AI&ML Department"
-  },
-  {
-    "code": "safooraabdulqadeerabc1019",
-    "holder": "Safoora Abdul Qadeer of AI&DS Department"
-  },
-  {
-    "code": "puttaumadeviabc1020",
-    "holder": "Putta Umadevi of AI&DS Department"
-  },
-  {
-    "code": "srichandanaabc1021",
-    "holder": "Srichandana of IT Department"
-  },
-  {
-    "code": "keerthikabc1022",
-    "holder": "Keerthi K of AIML Department"
-  },
-  {
-    "code": "psailahariabc1023",
-    "holder": "P Sai Lahari of CSE Department"
-  },
-  {
-    "code": "preethimadhavanabc1024",
-    "holder": "Preethi Madhavan of AI&ML Department"
-  },
-  {
-    "code": "akshathagadasandulaabc1025",
-    "holder": "Akshatha Gadasandula of IT Department"
-  },
-  {
-    "code": "tcharithaabc1026",
-    "holder": "T. Charitha of AI&ML Department"
-  },
-  {
-    "code": "malgarivinishaabc1027",
-    "holder": "Malgari Vinisha of CSE Department"
-  }
->>>>>>>> 10b2c254429d26141be0217b388d6111e4231152:docs/verify/Data.json
 ]
